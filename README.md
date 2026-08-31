@@ -7,4 +7,5 @@ for the Sudo Code 2026 program.
 
 | Week | Assignment | Notes |
 |------|------------|-------|
-| 1 | Text Preprocessing | NLP & Text Processing |
+| 1 | [Text Preprocessing](./Week01/Assignment/) | NLP & Text Processing |
+| 2 | [Text Feature Extraction](./Week02/Assignment/) | Bag of Words, Word N-grams, TF-IDF & Feature Hashing |
